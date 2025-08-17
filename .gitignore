@@ -2,3 +2,4 @@ PDFExcelComparer/build/
 PDFExcelComparer/dist/ 
 *.exe 
 *.pkg 
+"sensitive-folder-name/" 
