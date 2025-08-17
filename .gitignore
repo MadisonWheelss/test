@@ -3,3 +3,4 @@ PDFExcelComparer/dist/
 *.exe 
 *.pkg 
 "sensitive-folder-name/" 
+PDFExcelComparer/documents/ 
