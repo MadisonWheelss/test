@@ -1,0 +1,4 @@
+PDFExcelComparer/build/ 
+PDFExcelComparer/dist/ 
+*.exe 
+*.pkg 
